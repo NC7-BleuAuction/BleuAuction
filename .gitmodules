@@ -1,0 +1,6 @@
+[submodule "bleuauction_fe"]
+	path = bleuauction_fe
+	url = https://github.com/NC7-BleuAuction/bleuauction_fe.git
+[submodule "bleuauction_be"]
+	path = bleuauction_be
+	url = https://github.com/NC7-BleuAuction/bleuauction_be.git
