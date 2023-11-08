@@ -1,0 +1,12 @@
+.DS_Store
+
+# Intellij 컷
+.idea
+
+# Node 컷
+/node_modules
+
+# Logs
+logs
+*.log
+
